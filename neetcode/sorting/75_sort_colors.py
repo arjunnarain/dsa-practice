@@ -16,4 +16,3 @@ class Solution(object):
                 position += 1
         
         return nums
-
